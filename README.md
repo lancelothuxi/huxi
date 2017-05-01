@@ -1,2 +1,3 @@
+NEW LINE
 # huxi
 newline
